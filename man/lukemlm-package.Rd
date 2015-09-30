@@ -1,6 +1,6 @@
-\name{lukemlm-package}
-\alias{lukemlm-package}
-\alias{lukemlm}
+\name{LukeMLM-package}
+\alias{LukeMLM-package}
+\alias{LukeMLM}
 \docType{package}
 \title{
 Data files for Multilevel and Longitudinal Data Analysis
@@ -11,10 +11,10 @@ offered by Douglas Luke, Ph.D.
 }
 \details{
 \tabular{ll}{
-Package: \tab lukemlm\cr
+Package: \tab LukeMLM\cr
 Type: \tab Package\cr
-Version: \tab 0.99\cr
-Date: \tab 2008-06-16\cr
+Version: \tab 1.26\cr
+Date: \tab 2015-09-28\cr
 License: \tab Data are for the use of the students and instructor of the above class.
 }
 See the individual help files for each of the data sets.
@@ -22,7 +22,7 @@ See the individual help files for each of the data sets.
 \author{
 Douglas Luke
 
-Maintainer: Douglas Luke <dluke@slu.edu>
+Maintainer: Douglas Luke <dluke@wustl.edu>
 
 }
 

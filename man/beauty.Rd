@@ -62,6 +62,5 @@ Hamermesh, D. S., & Parker, A. M. (2005). Beauty in the classroom:  Instructors'
 }
 \examples{
 data(beauty)
-## maybe str(beauty) ; plot(beauty) ...
 }
 \keyword{datasets}

@@ -1,8 +1,8 @@
 Package: LukeMLM
 Type: Package
 Title: Package of data files for Multilevel and Longitudinal Modeling
-Version: 1.36
-Date: 2016-01-13
+Version: 1.37
+Date: 2016-02-17
 Author: Douglas Luke
 Maintainer: Douglas Luke <dluke@wustl.edu>
 Description: These data files are for use by the students and instructor of Multilevel and Longitudinal Data Analysis

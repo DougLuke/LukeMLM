@@ -16,12 +16,13 @@ longitudinal modeling. Participants who were at least 70 years old were
 enrolled and interviewed in 1984, and then re-interviewed every two years 
 until 1990.}
 \usage{data(lsoa)}
+
 \format{
   A data frame with 20283 observations on the following 7 variables.
   \describe{
     \item{\code{caseid}}{participant ID number}
     \item{\code{numadl}}{number of types of activities of daily living participant was having troubles with}
-    \item{\code{marstat}}{marital statuswith levels \code{No} \code{Yes}
+    \item{\code{marstat}}{marital status with levels \code{No} \code{Yes}}
     \item{\code{wave}}{interview wave number, from 0 to 3}
     \item{\code{wave2}}{square of interview wave number}
     \item{\code{sex}}{gender with levels \code{Female} \code{Male}}
